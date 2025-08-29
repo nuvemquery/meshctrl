@@ -9,7 +9,7 @@ setuptools.setup(
     description="Python port of MeshCentral's Meshctrl.js program",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/amidaware/meshctrl-py",
+    url="https://github.com/nuvemquery/meshctrl-py",
     author="Josh Krawczyk",
     author_email="josh@torchlake.com",
     license="MIT",
